@@ -1,0 +1,1 @@
+[{"title":"Escuadra","price":123.45,"thumbnail":"escuadra.png","id":0},{"title":"Calculadora","price":234.56,"thumbnail":"calculadora.png","id":1},{"title":"Globo Terráqueo","price":345.67,"thumbnail":"globo_terraqueo.png","id":2},{"title":"libro matematica","price":319.17,"thumbnail":"libro_matematica.png","id":3},{"title":"lapiz","price":35.21,"thumbnail":"lapiz.png","id":4}]
